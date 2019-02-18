@@ -1,2 +1,2 @@
-# cnametest
-CNAME Test for Github Pages
+# Github CDN
+CDN for Another Github pages like docs.2ke.kr, etc
